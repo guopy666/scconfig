@@ -1,5 +1,5 @@
 spring:
   application:
-    name: api-zuul
+    name: apizuul
 server:
   port: 9001
