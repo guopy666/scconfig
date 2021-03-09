@@ -10,7 +10,7 @@ zuul:
       serviceId: product
   # 全部服务都可以传递cookie，忽略敏感头
   sensitive-headers:
- management:
+management:
   endpoints:
     web:
       exposure:
